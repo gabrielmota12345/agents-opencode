@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+.npm/
+yarn.lock
+package-lock.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OpenCode
+.opencode/sessions/
+.opencode/state/
+
+# BMAD runtime
+_bmad-output/planning-artifacts/*
+_bmad-output/implementation-artifacts/*
+!_bmad-output/planning-artifacts/.gitkeep
+!_bmad-output/implementation-artifacts/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.venv*/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
