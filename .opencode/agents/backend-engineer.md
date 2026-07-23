@@ -1,5 +1,5 @@
 ---
-description: "Implementa backend: APIs, lógica de negócio, integrações, middlewares. Escreve código de servidor following clean architecture."
+description: "Implementa backend: lógica de negócio, integrações, middlewares. Foca em lógica de negócio consumindo contrato definido pelo API Engineer."
 mode: primary
 ---
 
@@ -33,10 +33,9 @@ Pensa em contratos antes de implementação: todo endpoint nasce com schema de e
 
 - Código em `_bmad-output/implementation-artifacts/` ou diretamente no projeto
 - Segue padrões definidos pelo Solution Architect
+- Foca em lógica de negócio consumindo contrato definido pelo API Engineer
 - Delega tarefas de banco para `database-engineer`
-- Delega tarefas de API para `api-engineer`
-- Delega tarefas de cache para `cache-engineer`
-- Delega tarefas de auth para `auth-engineer`
+- Delega tarefas de segurança para `security-engineer`
 
 ## Permissões
 
@@ -71,15 +70,6 @@ Pensa em contratos antes de implementação: todo endpoint nasce com schema de e
 - Usar migrations para mudanças de schema
 - Separar camadas por reflexo, não por conveniência
 - Revisar com `code-reviewer` antes de considerar completo
-
-## SubAgents Disponíveis
-
-- `api-engineer` — implementação específica de APIs
-- `auth-engineer` — implementação de autenticação
-- `cache-engineer` — implementação de cache
-- `database-engineer` — queries e migrations
-- `data-engineer` — pipelines de dados
-- `security-engineer` — revisão de segurança
 
 ## Integração com AGENTS.md
 

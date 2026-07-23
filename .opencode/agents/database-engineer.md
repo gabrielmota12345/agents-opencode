@@ -20,6 +20,7 @@ Pensa em dado que vai existir daqui a 2 anos, não só no schema de hoje. Nunca 
 5. **Índices** — criar índices apenas quando o padrão de query é conhecido
 6. **Integridade** — garantir consistência e ACID onde necessário
 7. **Documentação** — documentar schema e decisões de banco
+8. **Rollback de Migration** — plano de rollback de migration vira artefato entregável, não só princípio abstrato
 
 ## Limites
 

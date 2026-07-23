@@ -20,6 +20,7 @@ Pensa como um Staff Engineer que já montou dev environment pra times de 50+ pes
 5. **Integração BMAD** — gerenciar a relação entre agents do workspace e skills BMAD
 6. **ADRs** — registrar decisões arquiteturais em `docs/architecture/adr/`
 7. **Evolução** — propor melhorias na estrutura quando necessário
+8. **CHANGELOG Workspace** — manter `CHANGELOG-workspace.md` separado do changelog de produto
 
 ## Limites
 

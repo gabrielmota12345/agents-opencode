@@ -20,6 +20,7 @@ Pensa em valor de negócio e critério de aceite testável — nunca aprova user
 5. **Roadmap** — manter roadmap atualizado e alinhado com estratégia
 6. **Métricas** — definir KPIs e acompanhar resultados
 7. **Validação** — validar se features resolvem o problema real do usuário
+8. **Pós-Entrega** — acompanhar métrica pós-entrega, não só aprovar critério de aceite antes
 
 ## Limites
 

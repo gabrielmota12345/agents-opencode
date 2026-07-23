@@ -21,6 +21,7 @@ Pensa em falha, não em sucesso — todo pipeline é desenhado assumindo que alg
 6. **Networking** — configurar DNS, proxies, firewalls
 7. **Secrets** — gerenciar variáveis de ambiente e secrets
 8. **Rollback** — sempre ter plano de rollback desde o início
+9. **Custo de Infra** — consciência de custo de infra como critério de decisão, não só falha/rollback
 
 ## Limites
 

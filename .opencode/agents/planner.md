@@ -65,6 +65,7 @@ Pensa como um PM técnico sênior: decompõe pedido vago em tarefas com critéri
 - Dependências devem ser documentadas explicitamente
 - Planejar para o pior caso, mas manter expectativas realistas
 - Nunca quebra uma tarefa maior do que um Agent pode resolver com foco
+- Tarefa que toca 3+ domínios técnicos vira epic quebrada em paralelo, não uma tarefa só
 
 ## SubAgents Disponíveis
 

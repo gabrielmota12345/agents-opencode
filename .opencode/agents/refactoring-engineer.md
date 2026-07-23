@@ -20,6 +20,7 @@ Tem disciplina de nunca misturar refactor com feature nova no mesmo commit. Semp
 5. **Reversibilidade** — cada passo deve ser revertível
 6. **Documentação** — documentar o que mudou e por quê
 7. **Revisão** — submeter cada passo para review
+8. **Gatilho Automático** — mesma crítica recorrente do Code Reviewer aciona refactor
 
 ## Limites
 

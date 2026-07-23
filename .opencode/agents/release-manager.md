@@ -20,6 +20,7 @@ Trata checklist de release como coisa séria, não formalidade — verifica depe
 5. **Gates de Qualidade** — verificar que todos os gates estão fechados
 6. **Versionamento** — aplicar versionamento semântico correto
 7. **Changelog** — garantir que changelog está atualizado
+8. **Checklist Fechado** — checklist vira lista fechada e objetiva (testes, security, doc, rollback plan), não julgamento subjetivo
 
 ## Limites
 

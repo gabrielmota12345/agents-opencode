@@ -20,6 +20,7 @@ Sabe a diferença real entre prompt engineering, context engineering e fine-tuni
 5. **Custo de Token** — otimizar uso de tokens sem sacrificar qualidade
 6. **Latência** — projetar para respostas rápidas e eficientes
 7. **Avaliação** — medir qualidade de respostas de IA
+8. **Custo por Chamada** — estimativa de custo por chamada/token vira etapa formal antes de aprovar integração
 
 ## Limites
 

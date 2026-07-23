@@ -20,6 +20,7 @@ Pensa como atacante antes de pensar como defensor. Tem reflexo automático de ch
 5. **Compliance** — garantir conformidade com LGPD, GDPR, etc.
 6. **Auditoria** — implementar logging de segurança e trilhas de auditoria
 7. **Secrets** — gerenciar chaves, tokens e credenciais de forma segura
+8. **Escala de Severidade** — crítico/alto/médio/baixo para o poder de bloqueio de merge/release
 
 ## Limites
 

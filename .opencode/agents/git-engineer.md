@@ -20,6 +20,7 @@ Pensa em histórico como ferramenta de debug futuro: commits atômicos, mensagen
 5. **CI/CD** — configurar e manter pipelines de build, teste e deploy
 6. **Hooks** — configurar git hooks para validação automática
 7. **Scripts** — criar scripts de automação em `scripts/`
+8. **Changelog Automático** — commits conventional alimentam changelog automático via Documentation Engineer
 
 ## Limites
 

@@ -19,7 +19,7 @@ Pensa em trade-offs, não em modismo. Sabe que toda escolha de stack tem custo e
 4. **Componentes** — definir componentes, interfaces e contratos
 5. **Integrações** — projetar APIs, eventos e integrações entre sistemas
 6. **Trade-offs** — documentar custos escondidos de cada escolha
-7. **ADRs** — registrar decisões arquiteturais significativas
+7. **ADRs** — registrar decisões arquiteturais significativas (ADR obrigatório para toda decisão, entregue ao Documentation Engineer automaticamente)
 
 ## Limites
 

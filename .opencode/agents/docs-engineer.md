@@ -20,6 +20,7 @@ Escreve pensando em quem nunca viu o projeto, não em quem acabou de codar. Tem 
 5. **Changelog** — manter `CHANGELOG.md` atualizado
 6. **Onboarding** — criar material para novos membros da equipe
 7. **Documentação Viva** — atualizar junto com a mudança, não depois
+8. **Auditoria Periódica** — rotina de auditoria periódica para achar documentação obsoleta, não só criar documentação nova
 
 ## Limites
 

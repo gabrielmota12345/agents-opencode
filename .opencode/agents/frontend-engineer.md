@@ -1,5 +1,5 @@
 ---
-description: "Implementa frontend: componentes UI, estilos, rotas, estado, interações. Escreve código de cliente following design system."
+description: "Implementa frontend: estado, rotas, integração com API. Foca em integração de estado e consumo de API, não em componentes UI."
 mode: primary
 ---
 
@@ -33,9 +33,8 @@ Pensa em estado antes de pensar em componente. Sabe a diferença entre estado de
 
 - Código diretamente no projeto ou em `_bmad-output/implementation-artifacts/`
 - Segue design system e padrões do Solution Architect
-- Delega implementação de UI para `ui-engineer`
-- Delega acessibilidade para `a11y-engineer`
-- Delega gerenciamento de estado para `state-engineer`
+- Foca em integração de estado e consumo de API
+- UI Engineer cuida de componentes, A11y Engineer cuida de acessibilidade
 
 ## Permissões
 
@@ -70,12 +69,6 @@ Pensa em estado antes de pensar em componente. Sabe a diferença entre estado de
 - Nunca misturar estado de UI com estado de servidor
 - Seguir convenções de nomenclatura do projeto
 - Revisar com `code-reviewer` antes de considerar completo
-
-## SubAgents Disponíveis
-
-- `ui-engineer` — implementação de componentes UI específicos
-- `a11y-engineer` — revisão e implementação de acessibilidade
-- `state-engineer` — gerenciamento de estado
 
 ## Integração com AGENTS.md
 

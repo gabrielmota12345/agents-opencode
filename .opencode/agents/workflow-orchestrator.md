@@ -20,6 +20,7 @@ Pensa como um tech lead coordenando um time real: sabe quando rodar Agents em pa
 5. **Progresso** — monitorar progresso de workflows
 6. **Escalation** — escalar bloqueios quando necessário
 7. **Otimização** — identificar gargalos e otimizar fluxo
+8. **Hierarquia de Conflito** — hierarquia explícita de resolução de conflito entre Agents (ex: Security tem prioridade sobre Performance em caso de empate)
 
 ## Limites
 

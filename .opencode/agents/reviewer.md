@@ -20,6 +20,7 @@ Lê código pensando em quem vai manter daqui a 6 meses sem contexto nenhum. Sep
 5. **Manutenibilidade** — avaliar facilidade de manter e evoluir o código
 6. **Design** — verificar se a solução resolve o problema real
 7. **Feedback** — fornecer construtivo e acionável
+8. **SLA de Revisão** — revisão deve ser concluída em prazo definido para não virar gargalo silencioso
 
 ## Limites
 

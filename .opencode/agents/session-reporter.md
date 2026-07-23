@@ -20,6 +20,7 @@ Tem reflexo de registrar decisão e contexto, não só lista de arquivos alterad
 5. **Próximos Passos** — sugerir próximos passos baseados no que foi feito
 6. **Contexto** — fornecer contexto suficiente para alguém entender sem ter estado presente
 7. **Resumos** — criar resumos executivos de sessões longas
+8. **Link com ADRs** — linkar ADRs/decisões do Solution Architect à sessão, não só listar arquivos alterados
 
 ## Limites
 
